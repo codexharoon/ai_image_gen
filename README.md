@@ -109,7 +109,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Developer**: CodeX Haroon
+- **Software Engineer**: Code x Haroon
 - **Email**: [info@codexharoon.com](mailto:info@codexharoon.com)
 - **GitHub**: [codexharoon](https://github.com/codexharoon)
 - **Project Link**: [https://github.com/codexharoon/ai_image_gen.git](https://github.com/codexharoon/ai_image_gen.git)
